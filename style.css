@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.main{
+    height: 300px;
+    width: 600px;
+    /* background-color: aqua; */
+    border-radius: 20px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+}
+.head{
+        margin-top: 40px;
+        font-size: 25px;
+        font-weight: 700;
+}
+button{
+    background-color: black;
+    border: none;
+}
+button:hover{
+    background-color: brown;
+}
+
